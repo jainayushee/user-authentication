@@ -1,11 +1,8 @@
-import './App.css';
+import "./App.css";
+import Home from "./components/auth0/Home";
 
 function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+  return <Home></Home>;
 }
 
 export default App;
